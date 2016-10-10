@@ -3,6 +3,7 @@
 
 
 
+
 //ES6 method for creating objects
 
 class ES6Workout {
